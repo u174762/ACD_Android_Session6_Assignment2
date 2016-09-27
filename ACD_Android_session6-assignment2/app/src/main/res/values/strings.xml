@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MenuOption</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">Abouts</string>
+    <string name="action_help">Helps</string>
+
+
+</resources>
